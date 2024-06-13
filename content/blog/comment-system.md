@@ -19,7 +19,7 @@ Follow [these steps](https://giscus.app/).
 params:
   comments:
     giscus:
-      enable: true
+      enable: false
       repo: username/reponame
       repo_id: Rid
       category: Announcements
